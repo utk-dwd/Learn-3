@@ -22,7 +22,6 @@ int main()
         }
         cout << endl;
     }
-
     // Inv Full pyramid
     for (int i = 0; i < n; i = i + 1)
     {
